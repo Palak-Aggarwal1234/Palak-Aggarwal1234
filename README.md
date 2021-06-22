@@ -46,7 +46,8 @@ I am currently pursuing my BTech in Computer Science at SRMIST KTR and have been
 </td></tr></table>  
 
 <br/>  
-### You can reach me 
+## You can reach me 
+
 <br/>
 
   <a href="https://github.com/Palak-Aggarwal1234" target="_blank">
