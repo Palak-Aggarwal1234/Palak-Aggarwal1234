@@ -81,4 +81,4 @@ I am currently pursuing my BTech in Computer Science at SRMIST KTR and have been
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
