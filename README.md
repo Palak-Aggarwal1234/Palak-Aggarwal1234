@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-![](https://komarev.com/ghpvc/?username=Palak-Aggarwal1234&color=green)
+
 
 ### ABOUT ME
 
