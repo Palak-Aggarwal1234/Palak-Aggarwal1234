@@ -52,14 +52,11 @@ I am currently pursuing my BTech in Computer Science at SRMIST KTR and have been
 <a href="https://github.com/Palak-Aggarwal1234" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="palakaggarwal1234@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7-gmail-white" alt=mail style="margin-bottom: 5px;" />
-</a>
+<a href="https://medium.com/palakaggarwal1234" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 <a href="https://www.linkedin.com/in/palak-aggarwal-96366a18b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/palakaggarwal1234/saved/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
